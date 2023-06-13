@@ -2,6 +2,15 @@
 
 https://archive.apache.org/dist/maven/maven-3/3.8.6/
 
+0.0.0.0:8081/api/payments/paymentTransactions
+
+x-vio-transactionId:hdsfhjdh-jxbv859-sjdf7643-3746bbdyut
+clientId:hsdfgysdhfcdshf37er6twgsdhfjcd
+clientSecret:dsgfhaegur457r6ewsewegrfjesh
+Accept:application/json
+Accept-Language:en-US
+Content-Type:application/json
+
 
 
 pipeline {
